@@ -1,2 +1,2 @@
 # eureka-server
-Eureka server
+MSA Eureka server
